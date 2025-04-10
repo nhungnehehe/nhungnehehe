@@ -12,8 +12,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
-## 📈 GitHub Stats
-![Nhung's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhungenehehe&show_icons=true&theme=radical)
 
 ## 💬 Let's Connect!
 Feel free to reach out or check out my projects. I’m always happy to collaborate and learn together!
