@@ -4,7 +4,6 @@
 - 🎓 Student majoring in E-Commerce
 - 💻 I enjoy working on web projects and exploring data science
 - 🌱 Currently learning: Python, HTML/CSS, and AI applications
-- 📊 Researching stock price prediction with financial sentiment analysis
 
 ## 🛠️ Tools & Tech
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
