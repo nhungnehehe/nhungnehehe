@@ -4,7 +4,7 @@
 - 🎓 Student majoring in E-Commerce
 - 💻 I enjoy working on web projects and exploring data science
 - 🌱 Currently learning: Python, HTML/CSS, and AI applications
-
+<div align="center">
 ### Frontend
 ![Angular](https://img.shields.io/badge/Angular-19-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -24,7 +24,7 @@
 Feel free to reach out or check out my projects. I’m always happy to collaborate and learn together!
 
 ---
-
+</div>
 _Thanks for stopping by! 😊_
 <!--
 **nhungnehehe/nhungnehehe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
