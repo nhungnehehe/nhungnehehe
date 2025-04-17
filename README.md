@@ -22,7 +22,8 @@
 
 ## 💬 Let's Connect!
 Feel free to reach out or check out my projects. I’m always happy to collaborate and learn together!
-[![Gmail Badge](https://img.shields.io/badge/-phamtuyetnhung9n1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phamtuyetnhung9n1@gmail.com)](mailto:phamtuyetnhung9n1@gmail.com)
+- ✉️ Email: [phamtuyetnhung9n1@gmail.com](mailto:phamtuyetnhung9n1@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/PhamTuyetNhung](https://www.linkedin.com/in/nhung-ph%E1%BA%A1m-tuy%E1%BA%BFt-082579257/)
 
 ---
 _Thanks for stopping by! 😊_
