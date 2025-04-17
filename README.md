@@ -22,7 +22,7 @@
 
 ## 💬 Let's Connect!
 Feel free to reach out or check out my projects. I’m always happy to collaborate and learn together!
-[![Gmail Badge](https://img.shields.io/badge/-your.email@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@example.com)](mailto:phamtuyetnhung9n1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-phamtuyetnhung9n1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phamtuyetnhung9n1@gmail.com)](mailto:phamtuyetnhung9n1@gmail.com)
 
 ---
 _Thanks for stopping by! 😊_
